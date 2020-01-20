@@ -35,11 +35,11 @@ exports.setNumber(20);                 // set value
 log(exports.getNumber());              // get value
 ```
 
+```
 5). Now hit the `run` button and see output at the `right bottom Panel`.
-
 6). For custom implementation closer look at `right bottom panel` download `WASM` button to download it [eg. program.wasm]
-
-7. Now play with examples.
+7). Now play with examples.
+```
 
 References:
 [https://developer.mozilla.org/en-US/docs/WebAssembly](https://developer.mozilla.org/en-US/docs/WebAssembly)
